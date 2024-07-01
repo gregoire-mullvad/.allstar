@@ -1,2 +1,5 @@
 optConfig:
   optOutStrategy: true
+  optOutPrivateRepos: true
+  optOutArchivedRepos: true
+  optOutForkedRepos: true
